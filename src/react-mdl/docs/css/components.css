@@ -1,0 +1,80 @@
+img[alt="react logo"] {
+    width: 175px;
+    height: 175px;
+}
+
+.center {
+    text-align: center;
+}
+
+.sidebar-components {
+    display: inline-block;
+    background: #fff;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 24px 0;
+    -webkit-flex-shrink: 0;
+    -ms-flex-negative: 0;
+    flex-shrink: 0;
+    z-index: 1;
+}
+
+.sidebar-components .mdl-list__item {
+    margin-left: 8px;
+    display: block;
+    padding: 0;
+}
+.sidebar-components .mdl-list__item:hover {
+    background: #fafafa;
+}
+
+.sidebar-components a {
+    color: #000;
+    text-decoration: none;
+    padding: 16px;
+    display: block;
+}
+
+.sidebar-components a {
+    color: #000;
+    text-decoration: none;
+}
+
+.markdown {
+    padding: 8px;
+    margin: 8px;
+}
+
+pre {
+    position: relative;
+}
+.codepen {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+.codepen-mover-button {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#react-mount > .mdl-layout > .mdl-layout__inner-container > .mdl-layout__drawer .drawer-separator {
+    height: 1px;
+    background-color: #dcdcdc;
+    margin: 8px 0;
+}
+
+#react-mount > .mdl-layout > .mdl-layout__inner-container > .mdl-layout__drawer .mdl-navigation span.mdl-navigation__link {
+    color: #3f51b5;
+}
+
+#react-mount > .mdl-layout > .mdl-layout__inner-container > .mdl-layout__drawer .mdl-navigation a.mdl-navigation__link.active {
+    font-weight: 600;
+}
+
+#react-mount .mdl-data-table {
+    max-width: 100%;
+    margin: auto;
+    white-space: initial;
+}
