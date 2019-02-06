@@ -18,19 +18,19 @@ class Landing extends Component {
                             <hr/>
                             <p>HTML/CSS | Bootstrap | Javascript | ReactJs | NodeJs | Express | MongoDB</p>
                             <div className="social-links">
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.linkedin.com/in/hemant-prasad-b21666132" target="_blank">
                                 <i class="fa fa-linkedin" aria-hidden="true"></i>
                                 </a>
 
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://www.facebook.com/imhkp4u" rel="noopener noreferrer" target="_blank">
                                 <i class="fa fa-facebook" aria-hidden="true"></i>
                                 </a>
 
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://github.com/imhkp4u" rel="noopener noreferrer" target="_blank">
                                 <i class="fa fa-github" aria-hidden="true"></i>
                                 </a>
 
-                                <a href="https://google.com" rel="noopener noreferrer" target="_blank">
+                                <a href="https://codepen.io/imhkp4u/" rel="noopener noreferrer" target="_blank">
                                 <i class="fa fa-codepen" aria-hidden="true"></i>
                                 </a>
                             </div>
